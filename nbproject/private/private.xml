@@ -3,6 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
             <file>file:/C:/Users/ASUS/Documents/java/dinda_salon/src/Base/TransaksiLayanan.java</file>
             <file>file:/C:/Users/ASUS/Documents/java/dinda_salon/src/Base/MemberKasir.java</file>
             <file>file:/C:/Users/ASUS/Documents/java/dinda_salon/src/path/KartuMember.java</file>
@@ -15,6 +16,13 @@
             <file>file:/C:/Users/ASUS/Documents/java/dinda_salon/src/Base/DashboardOwner.java</file>
             <file>file:/C:/Users/ASUS/Documents/java/dinda_salon/src/Base/DashboardKasir.java</file>
             <file>file:/C:/Users/ASUS/Documents/java/dinda_salon/src/Base/DashboardAdmin.java</file>
+=======
+            <file>file:/D:/Netbeans/DindaSalonTAok/src/BaseApp/SupplierAdmin.java</file>
+            <file>file:/D:/Netbeans/DindaSalonTAok/src/BaseApp/MembershipAdmin.java</file>
+            <file>file:/D:/Netbeans/DindaSalonTAok/src/BaseApp/SignUp.java</file>
+            <file>file:/D:/Netbeans/DindaSalonTAok/src/BaseApp/ProdukAdmin.java</file>
+            <file>file:/D:/Netbeans/DindaSalonTAok/src/BaseApp/SignIn.java</file>
+>>>>>>> upstream/main
         </group>
     </open-files>
 </project-private>
