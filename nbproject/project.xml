@@ -4,9 +4,13 @@
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
 <<<<<<< HEAD
+            <name>Salon</name>
+=======
+<<<<<<< HEAD
             <name>dinda_salon</name>
 =======
             <name>DindaSalonTAok</name>
+>>>>>>> upstream/main
 >>>>>>> upstream/main
             <source-roots>
                 <root id="src.dir"/>
